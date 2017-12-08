@@ -1,0 +1,10 @@
+log_file : server_log_file.txt
+app_host: localhost
+app_port: 8081
+db_user: postgres
+db_name: postgres
+db_pass: postgres
+db_host: localhost
+db_port: 5432
+ssl_mode: disable
+init_data: false
